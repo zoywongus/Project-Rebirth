@@ -1,0 +1,34 @@
+StickyNote4
+Religion Unit 15 Seminar May 28 - Must complete Task
+{Width=130, Height=130}
+{X=313,Y=112}
+StickyNote2
+Unit 11 Functions Seminar May 27
+{Width=130, Height=130}
+{X=602,Y=90}
+StickyNote2
+Unit 10 Calculus
+
+Unit 11 English Essay:
+Thesis: Miko is great
+Point 1: Miko is sick
+Point 2: Miko is cool
+Point 3: Miko is awesome
+{Width=194, Height=187}
+{X=21,Y=318}
+StickyNote7
+Board Game Fundraiser on Friday
+{Width=130, Height=130}
+{X=426,Y=374}
+StickyNote5
+MSI: EU > NA?
+{Width=151, Height=39}
+{X=426,Y=326}
+StickyNote1
+*Study for Physics Test
+{Width=167, Height=54}
+{X=23,Y=221}
+StickyNote6
+Mom's Bday next week!!
+{Width=130, Height=64}
+{X=592,Y=326}

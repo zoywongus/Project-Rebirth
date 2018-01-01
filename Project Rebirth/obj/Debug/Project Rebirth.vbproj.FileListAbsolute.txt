@@ -1,0 +1,145 @@
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+C:\Users\Gil Adiao\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\TEMP\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+H:\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+C:\Users\wongy001\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.FloorTimes.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbprojResolveAssemblyReference.cache
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.FloorTimes.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+C:\Users\mikon_000\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbprojResolveAssemblyReference.cache
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbprojResolveAssemblyReference.cache
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.FloorTimes.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.ToDoList.resources
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.ToDoList.resources
+H:\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.UnitTracker.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.UnitTracker.resources
+C:\Users\Miko Man\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.CourseTrack.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\days.txt
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\Floortimes.txt
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\isFirstTime.txt
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.CourseTrack.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.FloorTimes.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.ToDoList.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.UnitTracker.resources
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+C:\Users\mendozk008\Desktop\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.config
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.xml
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.pdb
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\days.txt
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\Floortimes.txt
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\bin\Debug\isFirstTime.txt
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe.manifest
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.application
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.exe
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.pdb
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\bin\Debug\Project Rebirth.xml
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.CourseTrack.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.FloorTimes.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.HelpForm.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Home.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.Resources.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.SelectTeachers.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.TestAuthorizations.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.ToDoList.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project_Rebirth.UnitTracker.resources
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.vbproj.GenerateResource.Cache
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.exe.manifest
+H:\Project Rebirth-2017\Project Rebirth\Project Rebirth\obj\Debug\Project Rebirth.application
